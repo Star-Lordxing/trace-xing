@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.sscf.games.lib.trace.common.config.CommonConfig,\
+com.sscf.games.lib.trace.redis.config.RedisTraceConfig,\
+com.sscf.games.lib.trace.rest.config.RestTraceConfig,\
+com.sscf.games.lib.trace.common.config.KafkaConfig,\
+com.sscf.games.lib.trace.servlet.config.ServletTraceConfig

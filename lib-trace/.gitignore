@@ -1,0 +1,14 @@
+.metadata
+spring-oauth-server
+RemoteSystemsTempFiles
+Servers
+.settings
+.classpath
+.classpath.bak
+.project
+/target/
+*.iml
+.dubbo
+logs
+sdklog
+.idea/
